@@ -4,37 +4,22 @@ import java.util.Random;
 public class NumberGenerator {
 	private  Random rand = new Random();
 	
-	private int min;
-	private int max;
-	private int default_min = 0;
-	private int default_max = 1000;
-	
-	public NumberGenerator() {
-		min = default_min;
-		max = default_max;
-	}
-
+	private final static int DEFAULT_MIN = 100;
+	private final static int DEFAULT_MAX = 1000;
 	
 	public int getMin() {
-		return min;
+		return DEFAULT_MIN;
 	}
 
 	public int getMax() {
-		return max;
+		return DEFAULT_MAX;
 	}
 
-	public int generateNumber()
-	{
-		return generateNumber(min, max);
+	public int generateThreeDigitNumber() {
+		return generateNumber(DEFAULT_MIN, DEFAULT_MAX);
 	}
 	
-	public int generateNumber(int min, int max)
-	{
-		this.min = min;
-		this.max = max;
-		
-		int result = rand.nextInt(max - min) + min;
-		System.out.println(result);
-		return result;
+	public int generateNumber(int min, int max) {
+		return rand.nextInt(max - min) + min;
 	}
 }

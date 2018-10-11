@@ -3,8 +3,8 @@ package Three;
 public class Program {
 
 	public static void main(String[] args) {
-		Flower rose = new Roses(11, "шипованная");
-		Flower tul = new Tulips(8, "красный"); 
+		Flower rose = new Roses(11, "С€РёРїРѕРІР°РЅРЅР°СЏ");
+		Flower tul = new Tulips(8, "РѕР±С‹РєРЅРѕРІРµРЅРЅР°СЏ"); 
 		
 		Bouquet bouq = new Bouquet();
 		bouq.add(tul);

@@ -1,12 +1,10 @@
 package Three;
 
-import java.util.List;
-
 public class Program {
 
 	public static void main(String[] args) {
-		Flowers rose = new Roses(10, "шипованная");
-		Flowers tul = new Tulips(8, "красный"); 
+		Flower rose = new Roses(11, "шипованная");
+		Flower tul = new Tulips(8, "красный"); 
 		
 		Bouquet bouq = new Bouquet();
 		bouq.add(tul);

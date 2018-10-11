@@ -3,19 +3,20 @@ package Three;
 import java.util.ArrayList;
 
 public class Bouquet {
-	private ArrayList<Flowers> bouquet;
+	private ArrayList<Flower> bouquet;
 	
 	public Bouquet() {
-		bouquet = new ArrayList<Flowers>();
+		bouquet = new ArrayList<Flower>();
 	}
 	
-	public void add(Flowers flower){
-		if(flower!=null)
+	public void add(Flower flower) {
+		if(flower != null) {
 			this.bouquet.add(flower);
+		}
 		else System.out.println("Нулевая ссылка");
 	}
 
-	public ArrayList<Flowers> getBouquet() {
+	public ArrayList<Flower> getBouquet() {
 		return bouquet;
 	}
 	

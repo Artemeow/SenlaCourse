@@ -1,0 +1,5 @@
+1;Fedja;23;Grogno;VACANT
+2;Vasja;13;Grogno;VACANT
+3;Anna Aaonik;22;Grogno;VACANT
+4;Anna Agora;22;Grodno;VACANT
+6;Egor;20;Finland;ENGAGED

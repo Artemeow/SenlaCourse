@@ -1,0 +1,9 @@
+C:\Users\ARTema\source\repos\Калькулятор\Calculator.BL\bin\Debug\netstandard2.0\Calculator.BL.deps.json
+C:\Users\ARTema\source\repos\Калькулятор\Calculator.BL\bin\Debug\netstandard2.0\Calculator.BL.dll
+C:\Users\ARTema\source\repos\Калькулятор\Calculator.BL\bin\Debug\netstandard2.0\Calculator.BL.pdb
+C:\Users\ARTema\source\repos\Калькулятор\Calculator.BL\obj\Debug\netstandard2.0\Calculator.BL.csprojAssemblyReference.cache
+C:\Users\ARTema\source\repos\Калькулятор\Calculator.BL\obj\Debug\netstandard2.0\Calculator.BL.csproj.CoreCompileInputs.cache
+C:\Users\ARTema\source\repos\Калькулятор\Calculator.BL\obj\Debug\netstandard2.0\Calculator.BL.AssemblyInfoInputs.cache
+C:\Users\ARTema\source\repos\Калькулятор\Calculator.BL\obj\Debug\netstandard2.0\Calculator.BL.AssemblyInfo.cs
+C:\Users\ARTema\source\repos\Калькулятор\Calculator.BL\obj\Debug\netstandard2.0\Calculator.BL.dll
+C:\Users\ARTema\source\repos\Калькулятор\Calculator.BL\obj\Debug\netstandard2.0\Calculator.BL.pdb
